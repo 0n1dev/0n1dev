@@ -1,10 +1,8 @@
 ## 소개
----
 
 - 이름 : 신재원
 
 ## Favorite Skills
----
 
 - Java
 - Spring
@@ -12,20 +10,17 @@
 - Docker
 
 ## Study
----
 
 - Kafka
 - K8S
 
 ## Career
----
 
 - AfreecaTV(2020.01.13 ~ )
   - 광고 파트 2021.02 ~ (Spring Boot, Kafka Streams, K8S ...)
   - 전사 파트 2020.01 ~ 2021.01
 
 ## Activity
----
 
 - F-LAB
 
