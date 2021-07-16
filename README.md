@@ -13,6 +13,7 @@
 
 - Kafka
 - K8S
+- RXJava
 
 ## Career
 
