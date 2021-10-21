@@ -17,7 +17,7 @@
 
 ## Career
 
-- AfreecaTV(2020.01.13 ~ )
+- AfreecaTV(2020.01.13 ~ 2021.10.22)
   - 광고 파트 2021.02 ~ (Spring Boot, Kafka Streams, K8S ...)
   - 전사 파트 2020.01 ~ 2021.01
 
