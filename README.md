@@ -25,5 +25,6 @@
 
 ![깃허브](https://github-readme-stats.vercel.app/api?username=0n1dev&show_icons=true)<br /> 
 ## Tistory Blog Posts
+[2020년 마무리 목표](https://0n1dev.tistory.com/4) - Nov 19, 2021<br>
 [첫 직장 아프리카 TV 늦은 회고](https://0n1dev.tistory.com/3) - Nov 19, 2021<br>
 [2021.11.19 - 블로그 시작](https://0n1dev.tistory.com/2) - Nov 19, 2021<br>
