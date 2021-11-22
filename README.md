@@ -25,6 +25,7 @@
 ![깃허브](https://github-readme-stats.vercel.app/api?username=0n1dev&show_icons=true)<br />
 
 ## Tistory Blog Posts
+[Github Profile에 Tistory RSS Feed 연결하기](https://blog.koo.gg/7) - Sun, 21 Nov <br/>
 [카카오브레인 대외활동 코테 회고](https://blog.koo.gg/5) - Sat, 20 Nov <br/>
 [2020년 마무리 목표](https://blog.koo.gg/4) - Fri, 19 Nov <br/>
 [첫 직장 아프리카 TV의 늦은 회고](https://blog.koo.gg/3) - Fri, 19 Nov <br/>
