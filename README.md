@@ -25,6 +25,9 @@
 ![깃허브](https://github-readme-stats.vercel.app/api?username=0n1dev&show_icons=true)<br />
 
 ## Tistory Blog Posts
+[5.1 트랜잭션](https://blog.koo.gg/10) - Mon, 22 Nov <br/>
+[5. 트랜잭션과 잠금](https://blog.koo.gg/9) - Mon, 22 Nov <br/>
+[0. 실습환경](https://blog.koo.gg/8) - Mon, 22 Nov <br/>
 [Github Profile에 Tistory RSS Feed 연결하기](https://blog.koo.gg/7) - Sun, 21 Nov <br/>
 [카카오브레인 대외활동 코테 회고](https://blog.koo.gg/5) - Sat, 20 Nov <br/>
 [2020년 마무리 목표](https://blog.koo.gg/4) - Fri, 19 Nov <br/>
