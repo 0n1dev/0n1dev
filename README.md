@@ -25,6 +25,7 @@
 ![깃허브](https://github-readme-stats.vercel.app/api?username=0n1dev&show_icons=true)<br />
 
 ## Tistory Blog Posts
+[5.2 MySQL 엔진의 잠금](https://blog.koo.gg/11) - Wed, 24 Nov <br/>
 [5.1 트랜잭션](https://blog.koo.gg/10) - Mon, 22 Nov <br/>
 [5. 트랜잭션과 잠금](https://blog.koo.gg/9) - Mon, 22 Nov <br/>
 [0. 실습환경](https://blog.koo.gg/8) - Mon, 22 Nov <br/>
