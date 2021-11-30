@@ -25,6 +25,7 @@
 ![깃허브](https://github-readme-stats.vercel.app/api?username=0n1dev&show_icons=true)<br />
 
 ## Tistory Blog Posts
+[대용량 서비스를 위한 아키텍처 with Redis #0](https://blog.koo.gg/15) - Mon, 29 Nov <br/>
 [5.3 InnoDB 스토리지 엔진 잠금](https://blog.koo.gg/14) - Sun, 28 Nov <br/>
 [0. 시간 복잡도 ](https://blog.koo.gg/13) - Thu, 25 Nov <br/>
 [5.2 MySQL 엔진의 잠금](https://blog.koo.gg/11) - Wed, 24 Nov <br/>
