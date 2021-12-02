@@ -25,4 +25,17 @@
 ![깃허브](https://github-readme-stats.vercel.app/api?username=0n1dev&show_icons=true)<br />
 
 ## Tistory Blog Posts
+[5.4 MySQL의 격리 수준](https://blog.koo.gg/16) - Wed, 01 Dec <br/>
+[대용량 서비스를 위한 아키텍처 with Redis #0](https://blog.koo.gg/15) - Mon, 29 Nov <br/>
+[5.3 InnoDB 스토리지 엔진 잠금](https://blog.koo.gg/14) - Sun, 28 Nov <br/>
+[0. 시간 복잡도 ](https://blog.koo.gg/13) - Thu, 25 Nov <br/>
+[5.2 MySQL 엔진의 잠금](https://blog.koo.gg/11) - Wed, 24 Nov <br/>
+[5.1 트랜잭션](https://blog.koo.gg/10) - Mon, 22 Nov <br/>
+[5. 트랜잭션과 잠금](https://blog.koo.gg/9) - Mon, 22 Nov <br/>
+[0. 실습환경](https://blog.koo.gg/8) - Mon, 22 Nov <br/>
+[Github Profile에 Tistory RSS Feed 연결하기](https://blog.koo.gg/7) - Sun, 21 Nov <br/>
+[카카오브레인 대외활동 코테 회고](https://blog.koo.gg/5) - Sat, 20 Nov <br/>
+[2020년 마무리 목표](https://blog.koo.gg/4) - Fri, 19 Nov <br/>
+[첫 직장 아프리카 TV의 늦은 회고](https://blog.koo.gg/3) - Fri, 19 Nov <br/>
+[2021.11.19 - 블로그 시작](https://blog.koo.gg/2) - Fri, 19 Nov <br/>
 
