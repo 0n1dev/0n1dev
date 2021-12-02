@@ -7,7 +7,7 @@ import java.util.List;
 public class Main {
 
     public static void main(String[] args) {
-        RssParser rp = new RssParser("https://blog.koo.gg/rss");
+        RssParser rp = new RssParser("https://0n1dev.tistory.com/rss");
 
         try {
             File mainPath = new File("Profile.md");
