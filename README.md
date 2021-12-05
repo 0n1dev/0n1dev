@@ -25,6 +25,7 @@
 ![깃허브](https://github-readme-stats.vercel.app/api?username=0n1dev&show_icons=true)<br />
 
 ## Tistory Blog Posts
+[실전! Querydsl #1](https://0n1dev.tistory.com/18) - Sat, 04 Dec <br/>
 [실전! Querydsl #0](https://0n1dev.tistory.com/17) - Fri, 03 Dec <br/>
 [5.4 MySQL의 격리 수준](https://0n1dev.tistory.com/16) - Wed, 01 Dec <br/>
 [대용량 서비스를 위한 아키텍처 with Redis #0](https://0n1dev.tistory.com/15) - Mon, 29 Nov <br/>
