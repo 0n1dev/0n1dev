@@ -25,6 +25,7 @@
 ![깃허브](https://github-readme-stats.vercel.app/api?username=0n1dev&show_icons=true)<br />
 
 ## Tistory Blog Posts
+[Kotlin In Action #2](https://0n1dev.tistory.com/23) - Sat, 11 Dec <br/>
 [왜 Reactive 프로그래밍인가? #0](https://0n1dev.tistory.com/22) - Thu, 09 Dec <br/>
 [6.0 데이터 압축](https://0n1dev.tistory.com/21) - Wed, 08 Dec <br/>
 [Kotlin In Action #1](https://0n1dev.tistory.com/20) - Mon, 06 Dec <br/>
