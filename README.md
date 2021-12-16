@@ -25,6 +25,7 @@
 ![깃허브](https://github-readme-stats.vercel.app/api?username=0n1dev&show_icons=true)<br />
 
 ## Tistory Blog Posts
+[Raspberry pi4를 활용한 Kubernetes Cluster #1](https://0n1dev.tistory.com/25) - Wed, 15 Dec <br/>
 [Raspberry pi4를 활용한 Kubernetes Cluster #0](https://0n1dev.tistory.com/24) - Tue, 14 Dec <br/>
 [Kotlin In Action #2](https://0n1dev.tistory.com/23) - Sat, 11 Dec <br/>
 [왜 Reactive 프로그래밍인가? #0](https://0n1dev.tistory.com/22) - Thu, 09 Dec <br/>
