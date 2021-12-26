@@ -40,7 +40,7 @@
 [5.3 InnoDB 스토리지 엔진 잠금](https://0n1dev.tistory.com/14) - Sun, 28 Nov <br/>
 [0. 시간 복잡도 ](https://0n1dev.tistory.com/13) - Thu, 25 Nov <br/>
 [5.2 MySQL 엔진의 잠금](https://0n1dev.tistory.com/11) - Wed, 24 Nov <br/>
-[5.1 트랜잭션](https://0n1dev.tistory.com/10) - Mon, 22 Nov <br/>
+[5.1 트랜잭션](https://0n1dev.tistory.com) - Mon, 22 Nov <br/>
 [5. 트랜잭션과 잠금](https://0n1dev.tistory.com/9) - Mon, 22 Nov <br/>
 [0. 실습환경](https://0n1dev.tistory.com/8) - Mon, 22 Nov <br/>
 [Github Profile에 Tistory RSS Feed 연결하기](https://0n1dev.tistory.com/7) - Sun, 21 Nov <br/>
