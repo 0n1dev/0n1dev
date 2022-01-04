@@ -25,6 +25,7 @@
 ![깃허브](https://github-readme-stats.vercel.app/api?username=0n1dev&show_icons=true)<br />
 
 ## Tistory Blog Posts
+[2022년 목표](https://0n1dev.tistory.com/27) - Tue, 04 Jan <br/>
 [Kotlin In Action #3](https://0n1dev.tistory.com/26) - Wed, 22 Dec <br/>
 [Raspberry pi4를 활용한 Kubernetes Cluster #1](https://0n1dev.tistory.com/25) - Wed, 15 Dec <br/>
 [Raspberry pi4를 활용한 Kubernetes Cluster #0](https://0n1dev.tistory.com/24) - Tue, 14 Dec <br/>
