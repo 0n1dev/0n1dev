@@ -25,12 +25,13 @@
 ![깃허브](https://github-readme-stats.vercel.app/api?username=0n1dev&show_icons=true)<br />
 
 ## Tistory Blog Posts
+[Kotlin In Action #4](https://0n1dev.tistory.com/29) - Wed, 05 Jan <br/>
+[2021년 마무리 회고](https://0n1dev.tistory.com/28) - Tue, 04 Jan <br/>
 [2022년 목표](https://0n1dev.tistory.com/27) - Tue, 04 Jan <br/>
 [Kotlin In Action #3](https://0n1dev.tistory.com/26) - Wed, 22 Dec <br/>
 [Raspberry pi4를 활용한 Kubernetes Cluster #1](https://0n1dev.tistory.com/25) - Wed, 15 Dec <br/>
 [Raspberry pi4를 활용한 Kubernetes Cluster #0](https://0n1dev.tistory.com/24) - Tue, 14 Dec <br/>
 [Kotlin In Action #2](https://0n1dev.tistory.com/23) - Sat, 11 Dec <br/>
-[왜 Reactive 프로그래밍인가? #0](https://0n1dev.tistory.com/22) - Thu, 09 Dec <br/>
 [6.0 데이터 압축](https://0n1dev.tistory.com/21) - Wed, 08 Dec <br/>
 [Kotlin In Action #1](https://0n1dev.tistory.com/20) - Mon, 06 Dec <br/>
 [Kotlin In Action #0](https://0n1dev.tistory.com/19) - Sun, 05 Dec <br/>
@@ -48,6 +49,6 @@
 [이직 성공... 그리고 회고 - 1](https://0n1dev.tistory.com/6) - Sat, 20 Nov <br/>
 [카카오브레인 대외활동 코테 회고](https://0n1dev.tistory.com/5) - Sat, 20 Nov <br/>
 [2020년 마무리 목표](https://0n1dev.tistory.com/4) - Fri, 19 Nov <br/>
-[첫 직장 아프리카 TV의 늦은 회고](https://0n1dev.tistory.com/3) - Fri, 19 Nov <br/>
+[첫 직장 아프리카 TV의](https://0n1dev.tistory.com/3) - Fri, 19 Nov <br/>
 [2021.11.19 - 블로그 시작](https://0n1dev.tistory.com/2) - Fri, 19 Nov <br/>
 
