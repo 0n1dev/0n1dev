@@ -55,7 +55,7 @@
 [5.1 트랜잭션](https://0n1dev.tistory.com/10) - Mon, 22 Nov <br/>
 [5. 트랜잭션과 잠금](https://0n1dev.tistory.com/9) - Mon, 22 Nov <br/>
 [0. 실습환경](https://0n1dev.tistory.com/8) - Mon, 22 Nov <br/>
-[Github Profile에 Tistory RSS Feed 연결하기](https://0n1dev.tistory.com/7) - Sun, 21 Nov <br/>
+[Github Profile에 Tistory RSS Feed](https://0n1dev.tistory.com/7) - Sun, 21 Nov <br/>
 [이직 성공... 그리고 회고 - 1](https://0n1dev.tistory.com/6) - Sat, 20 Nov <br/>
 [카카오브레인 대외활동 코테 회고](https://0n1dev.tistory.com/5) - Sat, 20 Nov <br/>
 [2020년 마무리 목표](https://0n1dev.tistory.com/4) - Fri, 19 Nov <br/>
