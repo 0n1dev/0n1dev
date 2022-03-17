@@ -51,7 +51,7 @@
 [실전! Querydsl #1](https://0n1dev.tistory.com/18) - Sat, 04 Dec <br/>
 [실전! Querydsl #0](https://0n1dev.tistory.com/17) - Fri, 03 Dec <br/>
 [5.4 MySQL의 격리 수준](https://0n1dev.tistory.com/16) - Wed, 01 Dec <br/>
-[대용량 서비스를 위한 아키텍처 with ](https://0n1dev.tistory.com/15) - Mon, 29 Nov <br/>
+[대용량 서비스를 위한 아키텍처 with Redis #0](https://0n1dev.tistory.com/15) - Mon, 29 Nov <br/>
 [5.3 InnoDB 스토리지 엔진 잠금](https://0n1dev.tistory.com/14) - Sun, 28 Nov <br/>
 [0. 시간 복잡도 ](https://0n1dev.tistory.com/13) - Thu, 25 Nov <br/>
 [5.2 MySQL 엔진의 잠금](https://0n1dev.tistory.com/11) - Wed, 24 Nov <br/>
