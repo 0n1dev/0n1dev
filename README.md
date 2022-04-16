@@ -25,6 +25,8 @@
 ![깃허브](https://github-readme-stats.vercel.app/api?username=0n1dev&show_icons=true)<br />
 
 ## Tistory Blog Posts
+[취소와 타임아웃 #3](https://0n1dev.tistory.com/48) - Fri, 15 Apr <br/>
+[스코프 빌더, 잡 #2](https://0n1dev.tistory.com/47) - Fri, 15 Apr <br/>
 [스코프 빌더 #1](https://0n1dev.tistory.com/46) - Thu, 14 Apr <br/>
 [코루틴 등장 #0](https://0n1dev.tistory.com/45) - Thu, 14 Apr <br/>
 [#0. 자료구조란](https://0n1dev.tistory.com/44) - Wed, 06 Apr <br/>
