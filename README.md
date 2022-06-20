@@ -67,6 +67,6 @@
 [이직 성공... 그리고 회고 - 1](https://0n1dev.tistory.com/6) - Sat, 20 Nov <br/>
 [카카오브레인 대외활동 코테 회고](https://0n1dev.tistory.com/5) - Sat, 20 Nov <br/>
 [2020년 마무리 목표](https://0n1dev.tistory.com/4) - Fri, 19 Nov <br/>
-[첫 직장 아프리카 TV의 늦은 회고](https://0n1dev.tistory.com/3) - Fri, 19 Nov <br/>
+[첫 직장 아프리카 TV의 ](https://0n1dev.tistory.com/3) - Fri, 19 Nov <br/>
 [2021.11.19 - 블로그 시작](https://0n1dev.tistory.com/2) - Fri, 19 Nov <br/>
 
