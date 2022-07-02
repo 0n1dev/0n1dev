@@ -48,7 +48,7 @@
 [2022년 목표](https://0n1dev.tistory.com/27) - Tue, 04 Jan <br/>
 [Kotlin In Action #3](https://0n1dev.tistory.com/26) - Wed, 22 Dec <br/>
 [Raspberry pi4를 활용한 Kubernetes Cluster #1](https://0n1dev.tistory.com/25) - Wed, 15 Dec <br/>
-[Raspberry pi4를 활용한 Kubernetes Cluster #0](https://0n1dev.tistory.com/24) - Tue, 14 Dec <br/>
+[Raspberry pi4를 활용한 Kubernetes Cluste](https://0n1dev.tistory.com/24) - Tue, 14 Dec <br/>
 [Kotlin In Action #2](https://0n1dev.tistory.com/23) - Sat, 11 Dec <br/>
 [6.0 데이터 압축](https://0n1dev.tistory.com/21) - Wed, 08 Dec <br/>
 [Kotlin In Action #1](https://0n1dev.tistory.com/20) - Mon, 06 Dec <br/>
