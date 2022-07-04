@@ -45,7 +45,7 @@
 [[당근마켓 밋업 정리] - Kotlin Coroutines 톺아보기](https://0n1dev.tistory.com/30) - Sun, 09 Jan <br/>
 [Kotlin In Action #4](https://0n1dev.tistory.com/29) - Wed, 05 Jan <br/>
 [2021년 마무리 회고](https://0n1dev.tistory.com/28) - Tue, 04 Jan <br/>
-[2022년 목표](https://0n1dev.tistory.com) - Tue, 04 Jan <br/>
+[2022년 목표](https://0n1dev.tistory.com/27) - Tue, 04 Jan <br/>
 [Kotlin In Action #3](https://0n1dev.tistory.com/26) - Wed, 22 Dec <br/>
 [Raspberry pi4를 활용한 Kubernetes Cluster #1](https://0n1dev.tistory.com/25) - Wed, 15 Dec <br/>
 [Raspberry pi4를 활용한 Kubernetes Cluster #0](https://0n1dev.tistory.com/24) - Tue, 14 Dec <br/>
