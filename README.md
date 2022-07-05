@@ -34,7 +34,7 @@
 [Spring Boot 기반으로 개발하는 Spring Security #1](https://0n1dev.tistory.com/42) - Thu, 27 Jan <br/>
 [Spring Boot 기반으로 개발하는 Spring Security #0](https://0n1dev.tistory.com/41) - Wed, 26 Jan <br/>
 [Reactive Programming #1. Reactive Streams](https://0n1dev.tistory.com/40) - Fri, 21 Jan <br/>
-[Reactive Programming #0. 옵저버 패턴](https://0n1dev.tistory.com/39) - Mon, 17 Jan <br/>
+[Reactive Programming #0. 옵](https://0n1dev.tistory.com/39) - Mon, 17 Jan <br/>
 [Kotlin으로 개발하는 Spring Boot Web MVC #5](https://0n1dev.tistory.com/38) - Sun, 16 Jan <br/>
 [Kotlin으로 개발하는 Spring Boot Web MVC #4](https://0n1dev.tistory.com/37) - Sun, 16 Jan <br/>
 [Kotlin으로 개발하는 Spring Boot Web MVC #3](https://0n1dev.tistory.com/36) - Sun, 16 Jan <br/>
