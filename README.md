@@ -21,5 +21,6 @@
 
 ## Activity
 - F-LAB
+- 2022 마켓컬리 해커톤 결선 진출
 
 ![깃허브](https://github-readme-stats.vercel.app/api?username=0n1dev&show_icons=true)<br />
